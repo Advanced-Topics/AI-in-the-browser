@@ -1,4 +1,4 @@
-![Demo del Proyecto](public/demo.gif)
+![Demo del Proyecto](./public/Peek%202024-11-07%2016-34.gif)
 
 # Getting Started with Create React App
 
